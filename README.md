@@ -12,7 +12,7 @@
 </figure>
 
 <figure>
-<img src="https://github.com/JinxiongLu/FillFactorEstimatorForConstructionVehicles/blob/master/Datasets/input.png" data-canonical-src="https://github.com/JinxiongLu/FillFactorEstimatorForConstructionVehicles/blob/master/Datasets/input.png" width="400"/>
+<img src="https://github.com/JinxiongLu/FillFactorEstimatorForConstructionVehicles/blob/master/Datasets/Input.png" data-canonical-src="https://github.com/JinxiongLu/FillFactorEstimatorForConstructionVehicles/blob/master/Datasets/Input.png" width="330"/>
   <font size="2">
     <figcaption> Input
     </figcaption>
