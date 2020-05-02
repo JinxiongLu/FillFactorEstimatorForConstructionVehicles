@@ -4,7 +4,7 @@
 
 ## Visualization of the result
 
-![Fill factor estimation and bucket detection](https://github.com/JinxiongLu/FillFactorEstimatorForConstructionVehicles/tree/master/Datasets/fig_14.pdf)
+![](https://github.com/JinxiongLu/FillFactorEstimatorForConstructionVehicles/tree/master/Datasets/fig_14.pdf)
 
 
 ## Description
