@@ -3,7 +3,13 @@
 [![DOI](https://zenodo.org/badge/260600483.svg)](https://zenodo.org/badge/latestdoi/260600483)
 
 ## Visualization of the result
+<figure>
 <img src="https://github.com/JinxiongLu/FillFactorEstimatorForConstructionVehicles/blob/master/Datasets/result.png" data-canonical-src="https://github.com/JinxiongLu/FillFactorEstimatorForConstructionVehicles/blob/master/Datasets/result.png" width="400"/>
+  <font size="2">
+    <figcaption> Volume Estimation and Bucket Detection
+    </figcaption>
+    </font>
+</figure>
 
 ## Description
 Datasets and source code for paper "A neural network-based approach for fill factor estimation and bucket detection on construction  vehicles" submitted to ["Computer-Aided Civil and Infrastructure Engineering"](https://onlinelibrary.wiley.com/journal/14678667)
