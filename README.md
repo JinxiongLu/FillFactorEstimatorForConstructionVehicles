@@ -11,6 +11,14 @@
     </font>
 </figure>
 
+<figure>
+<img src="https://github.com/JinxiongLu/FillFactorEstimatorForConstructionVehicles/blob/master/Datasets/input.png" data-canonical-src="https://github.com/JinxiongLu/FillFactorEstimatorForConstructionVehicles/blob/master/Datasets/input.png" width="400"/>
+  <font size="2">
+    <figcaption> Input
+    </figcaption>
+    </font>
+</figure>
+
 ## Description
 Datasets and source code for paper "A neural network-based approach for fill factor estimation and bucket detection on construction  vehicles" submitted to ["Computer-Aided Civil and Infrastructure Engineering"](https://onlinelibrary.wiley.com/journal/14678667)
 
