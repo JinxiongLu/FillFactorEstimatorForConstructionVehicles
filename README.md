@@ -6,16 +6,16 @@
 <figure>
 <img src="https://github.com/JinxiongLu/FillFactorEstimatorForConstructionVehicles/blob/master/Datasets/result.png" data-canonical-src="https://github.com/JinxiongLu/FillFactorEstimatorForConstructionVehicles/blob/master/Datasets/result.png" width="400"/>
   <font size="2">
-    <figcaption> Volume Estimation and Bucket Detection
+    <figcaption> Figure1: Volume Estimation and Bucket Detection
     </figcaption>
     </font>
 </figure>
-\\
-\\
+<br/>
+<br/>
 <figure>
 <img src="https://github.com/JinxiongLu/FillFactorEstimatorForConstructionVehicles/blob/master/Datasets/Input.png" data-canonical-src="https://github.com/JinxiongLu/FillFactorEstimatorForConstructionVehicles/blob/master/Datasets/Input.png" width="345"/>
   <font size="2">
-    <figcaption> Input
+    <figcaption> Figure2: Input
     </figcaption>
     </font>
 </figure>
