@@ -25,8 +25,9 @@ Datasets and source code for paper "A neural network-based approach for fill fac
 ## Abstract
 Bucket fill factor is of paramount importance in measuring the productivity of construction vehicles, which is the percentage of materials loaded in the bucket within one scooping. Additionally, the locational information of the bucket is also indispensable for scooping trajectory planning. Some research has been conducted to measure it via state-of-the-art computer vision approaches, but the robustness of applied system against various environment condition is not considered. In this study, we aim to fill this gap and six distinctive environment settings are included. Images are captured by a stereo camera and used to generate point clouds before being structured into 3D maps. This novel preprocessing pipeline for deep learning is originally proposed and its feasibility has been validated through this study. Moreover, Multi-Task Learning (MTL) is employed to exploit the positive relationship among two tasks: fill factor prediction and bucket detection.  Therefore, after preprocessing, 3D maps are forwarded to a Faster Region with Convolutional Neural Network (Faster R-CNN) incorporated with an improved Residual Neural Network (ResNet). The value of fill factor is acquired via a classification and probabilistic-based approach, which is novel and achieving an inspiring result (overall volume estimation accuracy:95.23$\%$ and detection precision:92.62$\%$) at the same time. This study validates the practicality of deep learning-based fill factor estimation and object detection solutions for real-time construction application.
 
-## Remarks
+## Dendencies
 * MATLAB$^{TM}$ version > = 2019b.
+
 ## Remarks
 * The Estimator/Detector is available [here](https://github.com/JinxiongLu/FillFactorEstimatorForConstructionVehicles/blob/master/trainedDetector.mat)
 * Download datasets from [this link](https://pan.baidu.com/s/1VtxAOAz_NIp34tGEgUf3_g) with password (b9yi), 6.89GB.
